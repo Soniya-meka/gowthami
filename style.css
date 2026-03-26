@@ -188,6 +188,11 @@ img {
     width: 100%;
 }
 
+.login-link {
+    color: var(--accent-color) !important;
+    font-weight: 700 !important;
+}
+
 /* Buttons */
 .btn {
     display: inline-block;
