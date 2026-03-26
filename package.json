@@ -1,7 +1,7 @@
 {
-  "name": "gowtham-institutions-website",
+  "name": "gowthami-institutions-website",
   "version": "1.0.0",
-  "description": "A premium school website for Gowtham Institutions",
+  "description": "A premium school website for Gowthami Institutions",
   "main": "index.html",
   "scripts": {
     "dev": "vite",
